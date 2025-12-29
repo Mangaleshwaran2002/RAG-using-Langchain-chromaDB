@@ -45,8 +45,8 @@ To run this application, you'll need to install the following Python packages:
 ## 📦 Installation
 ```bash
 # 1️⃣ Clone the repo
-git clone https://github.com/your‑username/langchain‑ollama‑rag-demo.git
-cd langchain-ollama-rag-demo
+git clone https://github.com/Mangaleshwaran2002/RAG-using-Langchain-chromaDB.git
+cd RAG-using-Langchain-chromaDB
 
 # 2️⃣ Create & activate a venv (Linux/macOS)
 python -m venv .venv
